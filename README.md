@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**dmmitrenko/dmmitrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **dmmitrenko/dmmitrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am passionate software engineer with experience in developing web applications using various technologies. I enjoy learning new things.
 
