@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **dmmitrenko/dmmitrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am passionate software engineer with experience in developing web applications using various technologies. I enjoy learning new things.
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
