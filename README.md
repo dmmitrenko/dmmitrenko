@@ -1,9 +1,7 @@
-### Hi there, I am Serhii 👋
+### Hi there 👋
 
 
 <!-- **dmmitrenko/dmmitrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-I am passionate software engineer with experience in developing web applications using various technologies. 
 
 [![Linkedin: dmm](https://img.shields.io/badge/-dmmitrenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmmitrenko/)](https://www.linkedin.com/in/dmmitrenko/)
 
